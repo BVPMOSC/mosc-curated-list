@@ -59,7 +59,7 @@ The package fields currently supported are: [Source](https://github.com/BVPMOSC/
 ## Example
 
 ```markdown
-# Core
+# Nodejs
 
-- [mosc-curated](https://github.com/bvpmosc/mosc-curated), Tags:official|js, links:[website](https://bvpmosc.tech/)|[eventinsta](https://github.com/BVPMOSC/EventInsta), badge:official, status:stable
+- [mosc-curated](https://github.com/bvpmosc/mosc-curated), tags:official, links:[website](https://bvpmosc.tech/), badge:js, status:stable
 ```
