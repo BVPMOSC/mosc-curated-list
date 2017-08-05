@@ -1,4 +1,4 @@
-# mosc-curated
+# mosc-curated-list
 
 This repository is the primary data source for the curated app. It has a [client](https://github.com/BVPMOSC/mosc-curated) and a [server](https://github.com/BVPMOSC/mosc-curated-server). It is live at [curated.bvpmosc.tech](http://curated.bvpmosc.tech/).
 
